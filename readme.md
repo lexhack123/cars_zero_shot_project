@@ -220,13 +220,13 @@ python main.py
 > Чтобы картинки отображались, файл отчёта должен лежать рядом с папками `PNG/` и `CSV/`.
 
 #### 7.2.1 Evaluation history (как training history, но по видео)
-<img src="PNG/evaluation_history_xclip.png" width="950">
+<img src="evaluation_history_xclip.png" width="950">
 
 #### 7.2.2 Распределение предсказанных классов
-<img src="CSV/predictions_summary.png" width="950">
+<img src="predictions_summary.png" width="950">
 
 #### 7.2.3 Средняя уверенность по предсказанным классам
-<img src="CSV/predictions_summary_confidence.png" width="950">
+<img src="predictions_summary_confidence.png" width="950">
 
 ### 7.3 Матрица ошибок (confusion matrix)
 | True \ Pred | car_review | car_wash_detailing | oil_change | tire_change |
